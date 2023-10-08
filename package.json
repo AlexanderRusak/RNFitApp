@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.71.4",
+    "react-native-health": "^1.18.0",
     "react-native-watch-connectivity": "^1.1.0"
   },
   "devDependencies": {
